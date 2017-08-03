@@ -1,0 +1,5 @@
+1.首先我们在powershell输入命令运行ex4.py脚本
+2.Python告诉我们在脚本中的第8行出现了错误
+3.它显示了第8行的内容
+4.告诉我们是取名'car_pool_capacity'出现错误
+5.应为'passengers/cars_driven'
